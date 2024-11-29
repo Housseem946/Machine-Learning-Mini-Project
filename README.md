@@ -89,7 +89,6 @@ The project structure is as follows:
             <li><a>Model Evaluation</a></li>
         </ul>
     </li>
-    <li><a>Flask API for model deployment</a></li>
 </ol>
 
 Please refer to the corresponding sections in the code for detailed implementation and analysis.
