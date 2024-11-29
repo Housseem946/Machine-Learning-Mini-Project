@@ -98,17 +98,13 @@ Please refer to the corresponding sections in the code for detailed implementati
 ## Tools & Technologies
 - Jupyter Notebook
 - Python
-- Web
-  - HTML
 - Python Libraries:
   - Numpy
   - Pandas
   - Matplotlib
   - Seaborn
   - Sklearn
-- Frameworks
-  - Flask
-  - Bootstrap
+
 <hr>
 
 ## Findings
