@@ -1,6 +1,5 @@
 # Machine-Learning-Mini-Project
-The objective of this project is to predict the number of bikes rented at each hour of the day using Seaoul Bik dataset so that the city can provide a stable supply of rental bikes.
-<hr>
+This project aims to **predict the number of bikes required at each hour for a stable supply of rental bikes in urban cities**. The prediction of bike count is based on various factors such as weather conditions, holidays, and functional hours.<hr>
 
 ## Project Description
 Bike sharing is a transportation system that allows individuals to rent bicycles for short periods, typically for a few hours or less, and return them to designated stations 
@@ -8,8 +7,6 @@ or docking points. It offers a convenient and flexible means of transportation, 
 data along with other relevant factors such as weather conditions, holidays, and time of day we can develop models to predict the demand for bikes in the future. 
 This information is crucial for bike-sharing operators to ensure an adequate supply of bikes at each location, optimize bike distribution, and meet the demand of users 
 especially during peak hours or busy periods.
-
-This project aims to **predict the number of bikes required at each hour for a stable supply of rental bikes in urban cities**. The prediction of bike count is based on various factors such as weather conditions, holidays, and functional hours.
 
 ## Data
 The dataset used in this project contains the count of public bicycles rented per hour in the Seoul Bike Sharing System with corresponding weather data and holiday 
