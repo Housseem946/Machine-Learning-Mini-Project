@@ -13,18 +13,6 @@ This information is crucial for bike-sharing operators to ensure an adequate sup
 especially during peak hours or busy periods.
 
 This project aims to **predict the number of bikes required at each hour for a stable supply of rental bikes in urban cities**. The prediction of bike count is based on various factors such as weather conditions, holidays, and functional hours.
-<hr>
-
-<div style="margin: 0 auto;">
-  <a href="linkedin.com/in/houssem-rezgui-933378239" style="style-decoration: none; text-align:center;">
-    <img src="https://media.licdn.com/dms/image/D4D03AQF-TLjsRvf4cQ/profile-displayphoto-shrink_400_400/0/1696193737692?e=1706140800&v=beta&t=-UsLJKIpwIY9jltG9Cn0LFwioWDjfYdYcMwag_03XAo" alt="Profile Photo" style="border-radius: 50%;" height="100px" width="100px"/>
-  </a>
-  
-  <a href="linkedin.com/in/yahya-el-oudouni" style="style-decoration: none; text-align:center;">
-    <img src="https://media.licdn.com/dms/image/D4E03AQEI2joaLyNfZA/profile-displayphoto-shrink_400_400/0/1685883749673?e=1706140800&v=beta&t=lkacIAxIEdK0SQSh_fxXej7D4c0w7ZF3NqKoBOEr7fc" alt="Profile Photo" style="border-radius: 50%; margin-left:20px;" height="100px" width="100px"/>
-  </a>
-</div>
-<hr>
 
 ## Data
 The dataset used in this project contains the count of public bicycles rented per hour in the Seoul Bike Sharing System with corresponding weather data and holiday 
